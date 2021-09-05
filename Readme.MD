@@ -1,6 +1,6 @@
 # call-centre-com
 A template for Call Centre Commerce, Web Student Intern<br />
-Preview: [Click to view](https://lokesh-kurre.github.io/call-centre-com/)
+Preview: [Click to view](https://lokesh-kurre.github.io/music-school-website/)
 
 ## Folder Structre
   - main branch
