@@ -1,5 +1,5 @@
-# call-centre-com
-A template for Call Centre Commerce, Web Student Intern<br />
+# Music School Website
+A template for Music School Website, Web Student Intern<br />
 Preview: [Click to view](https://lokesh-kurre.github.io/music-school-website/)
 
 ## Folder Structre
